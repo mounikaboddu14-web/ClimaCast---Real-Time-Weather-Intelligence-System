@@ -214,12 +214,6 @@ if _name_ == "_main_":
     root.mainloop()
 
 
-<img width="864" height="450" alt="image" src="https://github.com/user-attachments/assets/930e345f-c7a9-480a-88a3-f850dddc893b" />
-<img width="1051" height="487" alt="image" src="https://github.com/user-attachments/assets/464f6845-56fa-4aa6-9bca-2baa2b8f6621" />
-<img width="1060" height="426" alt="image" src="https://github.com/user-attachments/assets/d6f89a60-0117-42f0-9af7-2d8396c5e2ad" />
-<img width="1056" height="628" alt="image" src="https://github.com/user-attachments/assets/9ad9e1c4-bd7d-4a07-b74b-d2f57d335b0e" />
-<img width="675" height="321" alt="image" src="https://github.com/user-attachments/assets/60395482-a57b-4d34-81e1-25b65bb41479" />
-
 
 
 
